@@ -40,7 +40,7 @@ app/
 Common supporting files:
 - package.json
 - .env
-- 
+  
 ## Libraries
 
 OnchainKit  
@@ -60,7 +60,7 @@ Install dependencies using your preferred package manager and run using a standa
 Optional environment variables:
 - VITE_BASE_RPC_URL
 - VITE_BASE_SEPOLIA_RPC_URL
-- 
+  
 ## Author
 
 GitHub: https://github.com/Perasianna
