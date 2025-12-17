@@ -39,7 +39,7 @@ app/
 
 Common supporting files:
 - package.json
-- .env (optional)
+- .env
 
 ## Libraries
 
